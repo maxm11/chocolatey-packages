@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>talosctl</id>
-    <version>1.6.2</version>
+    <version>1.13.8</version>
     <packageSourceUrl>https://github.com/dedene/chocolatey-packages/tree/main/talosctl</packageSourceUrl>
     <authors>Sidero Labs</authors>
     <owners>dedene</owners>
